@@ -1,4 +1,4 @@
-# Task 3: Music Recommendation 
+# Music Recommendation 
 This repository contains the code and resources for Task 3: Music Recommendation. The goal of this task is to build a music recommendation system using the KKBOX dataset. 
 
 ## Dataset: 
